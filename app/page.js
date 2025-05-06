@@ -6,8 +6,8 @@ export default function Home() {
   return (
 <div>
 <h1>Hello & welcome to the Ai interviewer app</h1>
-<Link href="/auth">
-<Button>Log-in</Button>
+<Link href="/dashboard">
+<Button>Lets build an interview</Button>
 </Link>
 </div>
   );
